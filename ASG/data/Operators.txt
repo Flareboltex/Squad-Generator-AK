@@ -1,0 +1,39 @@
+Texas the Omertosa,98,100000,Assassin
+Reed the Flame Shadow,89,100000,Caster
+Silverash,68,100000,Striker
+Bagpipe,68,65,Striker
+Executor the Ex Foedere,55,76,Anchor
+Viviana,56,50,Duelist
+Jessica the Liberated,36,80,Core Defender
+Penance,65,70,Anchor
+Exusiai,45,40,Marksman
+Gnosis,62,90,Disruptor
+Virtuosa,58,58,Caster
+Ascalon,76,48,Disruptor
+Ines,94,30,Tactical Vanguard
+Muelsyse,45,32,Anchor
+Siege,10,45,Tactical Vanguard
+Degenbrecher,77,38,Striker
+Hoederer,56,50,Duelist
+Ulpianus,97,55,Assassin
+Horn,68,65,Artillery
+Hoshiguma,49,26,Core Defender
+Saria,70,30,Core Defender
+Fiametta,43,34,Artillery
+Pozëmka,72,25,Marksman
+Ray,57,30,Marksman
+Typhon,65,30,Marksman
+Logos,99,37,Caster
+Eyjafjalla the Hvít Aska,86,25,Medic
+Ela,78,36,Marksman
+Kirin R Yato,85,42,Assassin
+Warfarin,49,25,Medic
+Lappland,29,56,Disruptor
+Cantabile,26,10,Tactical Vanguard
+Lumen,49,30,Medic
+Pepe,65,77,Striker
+Narantuya,76,35,Marksman
+Vina Victoria,46,45,Striker
+Lappland the Decadenza,87,50,Caster
+Vuplisfoglia,64,50,Tactical Vanguard
+Necrass,75,45,Anchor
